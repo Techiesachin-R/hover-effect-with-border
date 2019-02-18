@@ -1,3 +1,5 @@
+/* On GitHub, saved changes are called commits.  */
+
 .hvr-outline-out {
   display: inline-block;
   vertical-align: middle;
